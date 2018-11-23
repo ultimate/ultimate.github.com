@@ -116,6 +116,10 @@
 							localStorage.setItem("day." + day, "open");
 							setTimeout("showImage(" + day + ");", 1000);
 						}
+						else
+						{
+							showImage(0);	
+						}
 					};
 				} (day, dayElement);
 				
