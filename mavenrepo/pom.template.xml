@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ - Copyright (c) 2020 ultimate
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>ultimate</groupId>
+	<artifactId>xxxxxx</artifactId>
+	<version>X.Y.Z</version>
+	<name>XxxYyy</name>
+	<description>...</description>
+	<url>https://github.com/ultimate/.../XxxYyy</url>
+	<licenses>
+		<license>
+			<name>GNU General Public License</name>
+			<url>http://www.gnu.org/licenses/</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	
+	<developers>
+		<developer>
+			<name>ultimate</name>
+			<email>ultimatej@gmx.net</email>
+		</developer>
+	</developers>
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/ultimate/.../XxxYyy/issues</url>
+	</issueManagement>
+	<dependencies>
+		<!--
+		<dependency>
+			<groupId>		</groupId>
+			<artifactId>	</artifactId>
+			<version>		</version>
+			<scope>			</scope>
+		</dependency>
+		-->
+	</dependencies>
+</project>
