@@ -4,34 +4,42 @@ You are very welcome to explore my/our repositories. Please don't hesitate to co
 Depending on the content of my projects I may provide informationen only in either English or German. If you require an translation, contact me as well...
 
 _Bist du interessiert an meinen Projekten oder denen von @syncnapsis?
-Du bist gerne eingeladen meine/unsere Repositories zu erkunden. Bitte zögere nicht mich zu kontaktieren, wenn du irgendwelche Fragen hast...
-Abhängig vom Inhalt meiner Projekte kann es sein, dass die Informationen nur auf Englisch oder Deutsch vorhanden sind. Falls du eine Übersetzung brauchst kontaktiere mich einfach..._
+Du bist gerne eingeladen meine/unsere Repositories zu erkunden. Bitte zÃ¶gere nicht mich zu kontaktieren, wenn du irgendwelche Fragen hast...
+AbhÃ¤ngig vom Inhalt meiner Projekte kann es sein, dass die Informationen nur auf Englisch oder Deutsch vorhanden sind. Falls du eine Ãœbersetzung brauchst kontaktiere mich einfach..._
 
 ## License
 All content in my projects are published under the GNU General Public License (GPL) (see http://www.gnu.org/copyleft/gpl.html).
 If you have further questions about using the content please don't hesitate to contact me.
 
-_Alle Inhalte meiner Projekte werden unter der GNU General Public License (GPL) (see http://www.gnu.org/copyleft/gpl.html) veröffentlicht.
-Wenn du irgendwelche weiteren Fragen zum Inhant hast, zögere nicht mich zu kontaktieren._
+_Alle Inhalte meiner Projekte werden unter der GNU General Public License (GPL) (see http://www.gnu.org/copyleft/gpl.html) verÃ¶ffentlicht.
+Wenn du irgendwelche weiteren Fragen zum Inhant hast, zÃ¶gere nicht mich zu kontaktieren._
 
 # Project Information
 ## Karopapier
 www.karopapier.de is a great browser game by @xosofox.
 I've written some tools enabling automated game creation and evaluation.
 
-_www.karopapier.de ist ein großartiges Browserspiel von @xosofox.
-Ich habe ein paar Tools für die automatische Spiel-Erstellung und -Auswertung geschrieben._
+_www.karopapier.de ist ein groÃŸartiges Browserspiel von @xosofox.
+Ich habe ein paar Tools fÃ¼r die automatische Spiel-Erstellung und -Auswertung geschrieben._
 
 ### KaroAPI4J
 ...No English description yet...
 
-_Die KaroAPI4J bildet die Grundlage für Version 3 des KaroMUSKELs und bildet die KaroAPI-Funktionen in Java ab._
+_Die KaroAPI4J bildet die Grundlage fÃ¼r Version 3 des KaroMUSKELs und bildet die KaroAPI-Funktionen in Java ab._
 
 ### KaroMUSKEL
 ...No English description yet...
 
-_Der KaroMUSKEL (Maschinelle-Ultimative-Spieleserien-für-Karopapier-Erstellungs-Lösung) ermöglicht das automatische Erstellen ganzer Spieleserien auf Knopfdruck. Detaillierte Beschreibungen gibt es im Karo-Wiki under http://wiki.karopapier.de/KaroMUSKEL. Version 3 ist noch in der Entwicklung, nachfolgend sind die verfügbaren Versionen zum Download enthalten:_
+_Der KaroMUSKEL (Maschinelle-Ultimative-Spieleserien-fÃ¼r-Karopapier-Erstellungs-LÃ¶sung) ermÃ¶glicht das automatische Erstellen ganzer Spieleserien auf Knopfdruck. Detaillierte Beschreibungen gibt es im Karo-Wiki under http://wiki.karopapier.de/KaroMUSKEL. Version 3 ist noch in der Entwicklung, nachfolgend sind die verfÃ¼gbaren Versionen zum Download enthalten:_
 
+* [KaroMUSKEL-2.7.zip](karopapier/KaroMUSKEL-2.7.zip)
+* [KaroMUSKEL-2.6b.zip](karopapier/KaroMUSKEL-2.6b.zip)
+* [KaroMUSKEL-2.6a.zip](karopapier/KaroMUSKEL-2.6a.zip)
+* [KaroMUSKEL-2.6.zip](karopapier/KaroMUSKEL-2.6.zip)
+* [KaroMUSKEL-2.5.zip](karopapier/KaroMUSKEL-2.5.zip)
+* [KaroMUSKEL-2.4a.zip](karopapier/KaroMUSKEL-2.4a.zip)
+* [KaroMUSKEL-2.4.zip](karopapier/KaroMUSKEL-2.4.zip)
+* [KaroMUSKEL-2.3a.zip](karopapier/KaroMUSKEL-2.3a.zip)
 * [KaroMUSKEL-2.3.zip](karopapier/KaroMUSKEL-2.3.zip)
 * [KaroMUSKEL-2.2b.zip](karopapier/KaroMUSKEL-2.2b.zip)
 * [KaroMUSKEL-2.2a.zip](karopapier/KaroMUSKEL-2.2a.zip)
